@@ -1,0 +1,11 @@
+# bash scripts
+*.sh
+
+# input files
+*.txt
+
+# output files
+/bin/
+
+# ide files
+.vscode/
